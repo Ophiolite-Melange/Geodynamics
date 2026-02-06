@@ -38,9 +38,8 @@
 Python-Geodynamics-Learning/
 │
 ├── README.md                                # 本文件
-├── Python学习与地球动力学转型规划.md           # 完整学习规划
-├── GitHub完全上手指南.md                     # Git/GitHub使用教程
-├── 每日学习笔记模板.md                        # 学习笔记模板
+├── Schedule.md                              # 完整学习规划
+├── Daily notebooks.md                        # 学习笔记模板
 │
 ├── Week1-基础语法/                            # 第1周：Python基础
 │   ├── Day1-环境搭建/
