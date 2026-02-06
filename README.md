@@ -8,7 +8,7 @@
 
 **从零开始的Python学习与地球动力学数值模拟转型之路**
 
-[学习规划](./Schedule.md) • [GitHub指南](./GitHub.md) • [每日笔记](./Daily notebooks.md)
+[学习规划](./00-学习规划/Schedule.md) • [GitHub指南](./00-学习规划/GitHub.md) • [每日笔记](./00-学习规划/Daily%20notebooks.md)
 
 </div>
 
