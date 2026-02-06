@@ -181,8 +181,7 @@ def calculate_geothermal_gradient(depth1, temp1, depth2, temp2):
 ## 🙏 致谢
 
 感谢：
-- Anthropic的Claude，提供学习规划和答疑
-- 李忠海老师课题组，提供地球动力学指导
+- Claude，ChatGPT，Gemini，Grok，Manus，Deepseek，Kimi，豆包等等，提供学习规划和答疑
 - GitHub社区，提供丰富的开源资源
 
 ---
