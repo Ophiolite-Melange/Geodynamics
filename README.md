@@ -8,7 +8,7 @@
 
 **从零开始的Python学习与地球动力学数值模拟转型之路**
 
-[学习规划](./Python学习与地球动力学转型规划.md) • [GitHub指南](./GitHub完全上手指南.md) • [每周总结](#每周学习总结)
+[学习规划](./Schedule.md) • [GitHub指南](./GitHub.md) • [每日笔记](./Daily notebooks.md)
 
 </div>
 
@@ -155,7 +155,7 @@ def calculate_geothermal_gradient(depth1, temp1, depth2, temp2):
 - 李忠海等. 地球动力学数值模拟相关论文（见Resources/papers/）
 
 ### 课程组资源
-- 李忠海课题组GitHub（待添加）
+- XXX课题组（待添加）
 - 课题组内部分享材料（待整理）
 
 ---
@@ -163,9 +163,9 @@ def calculate_geothermal_gradient(depth1, temp1, depth2, temp2):
 ## 💬 联系与交流
 
 - **GitHub Issues**：欢迎提问、讨论或提供建议
-- **邮箱**：[你的邮箱]（可选填写）
+- **邮箱**：caizhuocheng24@mails.ucas.ac.cn（可选填写）
 
-如果你也在学习Python用于地质学/地球物理研究，欢迎一起交流！
+如果你希望由传统的地质学向地球动力学方向转型用于地质学/地球物理研究，欢迎一起交流！
 
 ---
 
